@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MovieDBProject/static/css/main.d3a22a93.css",
+    "main.js": "/MovieDBProject/static/js/main.4c8e5ce7.js",
+    "static/js/787.6568e1bc.chunk.js": "/MovieDBProject/static/js/787.6568e1bc.chunk.js",
+    "static/media/MovieDB.png": "/MovieDBProject/static/media/MovieDB.5e60fc58c8f86913c7a4.png",
+    "static/media/Recipeapp.png": "/MovieDBProject/static/media/Recipeapp.f4951b38c455e2492ee4.png",
+    "index.html": "/MovieDBProject/index.html",
+    "main.d3a22a93.css.map": "/MovieDBProject/static/css/main.d3a22a93.css.map",
+    "main.4c8e5ce7.js.map": "/MovieDBProject/static/js/main.4c8e5ce7.js.map",
+    "787.6568e1bc.chunk.js.map": "/MovieDBProject/static/js/787.6568e1bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3a22a93.css",
+    "static/js/main.4c8e5ce7.js"
+  ]
+}
