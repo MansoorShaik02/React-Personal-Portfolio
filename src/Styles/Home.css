@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+
+.Bio {
+    /* background-color: green;
+    width: 100%;
+    height:100%;
+    border:0px;
+    margin:0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; */
+    width:100%;
+    height: auto;
+   
+   /*  background-color: aqua; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "Arial", sans-serif;
+    color: #3e497a;
+    font-family: 'Montserrat', sans-serif;
+}
+.NameIntro {
+    margin-top: 100px;
+}
+.NameIntro h2{
+    font-size: 60px;
+    margin: 10px;
+    border: 0px;
+    
+}
+.profileline,.Skills,.Languages {
+    margin-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.SkillsTitle h1 {
+    font-size: 40px;
+    margin-top:20px;
+    border : 0px;
+}
+.Skills {
+    font-size: 30px;
+    text-overflow: clip;
+}
+.LanguagesTitle  h2{
+    font-size: 40px;
+    margin:0px;
+    border : 0px;
+}
+.Languages {
+    font-size: 25px;
+}
+
+@media only screen and (max-width: 425.587px) { 
+/*     .Bio {
+        background-color: coral;
+        height: fit-content;
+    } */
+  /*   body {
+       
+    } */
+    .NameIntro {
+        margin-top: 30px;
+    }
+    .NameIntro h2{
+        font-size: 30px;
+        margin: 20px;
+        border: 0px;
+        
+    }
+    .profileline,.Skills,.Languages {
+        margin-top: 10px;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+    }
+    .SkillsTitle h1 {
+        font-size: 40px;
+        margin-top:10px;
+        margin-bottom: 10px;
+        border : 0px;
+        font-weight: bold;
+        
+    }
+    .Skills {
+        font-size: 25px;
+
+    }
+    span {
+        display: block;
+    }
+}
