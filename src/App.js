@@ -12,14 +12,16 @@ function App() {
   return (
     <div className="App">
 
-
       <Router>
         <NavigationBar></NavigationBar>
         <Routes>
           <Route path='/' element={<Home />}></Route>
+          {/*           index route : defines a default route that opens when website is loaded
+ */}          <Route index element={<Home />}></Route>
           <Route path='/projects' element={<Projects />}></Route>
           <Route path='/education' element={<Education />}></Route>
         </Routes>
+
         <Socials></Socials>
       </Router>
     </div>

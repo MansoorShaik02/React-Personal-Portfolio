@@ -9,10 +9,10 @@ function Home() {
             <div className="profileline"><p>Motivated and Enthusiastic Software Engineering Student with a strong interest to learn new Technologies.
             </p></div>
             <div className="SkillsTitle"><h1>Skills</h1></div>
-            <div className="Skills"><span>React, JavaScript,</span>
+            <div className="Skills"><span>React,</span>
                 <span> HTML, CSS, Git</span></div>
             <div className="LanguagesTitle"><h2>Languages</h2></div>
-            <div className="Languages"><p>Java , Python</p></div>
+            <div className="Languages"><p>Java, JavaScript</p></div>
 
 
         </div>
