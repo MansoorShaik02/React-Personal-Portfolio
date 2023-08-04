@@ -35,6 +35,7 @@ display: none;
     color: white;
    background-color: transparent;
     border:none;
+
 }
 .hamburgermenu svg {
     font-size : 70px;
@@ -60,7 +61,16 @@ display: none;
     .hamburgermenu{
      display: none;
      width: 100%;
-    } }
+     background-color: brown;
+    }
+    #open .navbarlinks {
+        flex-direction: column;
+        justify-content: flex-end;
+        margin-top: 200px;
+        background-color: rgb(246, 12, 55);
+        
+    }
+} 
 
 #open {
   height: 100vh;
@@ -71,6 +81,7 @@ display: none;
     flex-direction: column;
     justify-content: flex-start;
     margin-top: 200px;
+    
 }
 
 #open a {
