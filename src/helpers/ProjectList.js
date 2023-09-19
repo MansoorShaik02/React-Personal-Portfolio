@@ -23,7 +23,7 @@ export const projectList = [
     {
         image: ReactMovieWebsite,
         projectname: "React Movie Website",
-        link: 'https://mansoorshaik02.github.io/React-travel-website/'
+        link: 'https://mansoorshaik02.github.io/React-Movie-Website/'
     }
 
 ]
