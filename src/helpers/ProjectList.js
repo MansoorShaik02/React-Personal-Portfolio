@@ -6,9 +6,9 @@ import ReactMovieWebsite from '../images/ReactMovieWebsite.png'
 
 export const projectList = [
     {
-        image: MovieDB,
-        projectname: "Movie Database",
-        link: 'https://mansoorshaik02.github.io/MovieDBProject/'
+        image: ReactMovieWebsite,
+        projectname: "React Movie Website",
+        link: 'https://mansoorshaik02.github.io/React-Movie-Website/'
     },
     {
         image: Reciepeapp,
@@ -19,11 +19,6 @@ export const projectList = [
         image: Travel,
         projectname: "Travel Website",
         link: 'https://mansoorshaik02.github.io/React-travel-website/'
-    },
-    {
-        image: ReactMovieWebsite,
-        projectname: "React Movie Website",
-        link: 'https://mansoorshaik02.github.io/React-Movie-Website/'
     }
 
 ]

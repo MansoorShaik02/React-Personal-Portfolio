@@ -9,7 +9,7 @@ function Education() {
         <div className='Education'><VerticalTimeline lineColor='#3e497a'><VerticalTimelineElement className='vertical-timeline-element--education' date='2020-2024
         ' iconStyle={{ background: "#3e497a", color: "white" }} icon={<SchoolIcon></SchoolIcon>}><h3 className='vertical-timeline-element-title'>GITAM University,Vizag</h3>
             <p>B.Tech CSE</p>
-            <p>Current CGPA : 7.52</p></VerticalTimelineElement>
+            <p>Graduated with a CGPA : 7.67</p></VerticalTimelineElement>
             <VerticalTimelineElement className='vertical-timeline-element--education' date='2018-2020
         ' iconStyle={{ background: "#3e497a", color: "white" }} icon={<SchoolIcon></SchoolIcon>}><h3 className='vertical-timeline-element-title'>Sri Gayathri Junior College,Hyderabad</h3>
                 <p>Intermediate</p>
